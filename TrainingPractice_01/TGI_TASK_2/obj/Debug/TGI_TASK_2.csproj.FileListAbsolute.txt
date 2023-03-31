@@ -1,0 +1,8 @@
+C:\Users\grish\Desktop\TrainingPractice_01\TGI_TASK_2\bin\Debug\TGI_TASK_2.exe.config
+C:\Users\grish\Desktop\TrainingPractice_01\TGI_TASK_2\bin\Debug\TGI_TASK_2.exe
+C:\Users\grish\Desktop\TrainingPractice_01\TGI_TASK_2\bin\Debug\TGI_TASK_2.pdb
+C:\Users\grish\Desktop\TrainingPractice_01\TGI_TASK_2\obj\Debug\TGI_TASK_2.csproj.AssemblyReference.cache
+C:\Users\grish\Desktop\TrainingPractice_01\TGI_TASK_2\obj\Debug\TGI_TASK_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\grish\Desktop\TrainingPractice_01\TGI_TASK_2\obj\Debug\TGI_TASK_2.csproj.CoreCompileInputs.cache
+C:\Users\grish\Desktop\TrainingPractice_01\TGI_TASK_2\obj\Debug\TGI_TASK_2.exe
+C:\Users\grish\Desktop\TrainingPractice_01\TGI_TASK_2\obj\Debug\TGI_TASK_2.pdb
